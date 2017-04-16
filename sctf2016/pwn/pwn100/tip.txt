@@ -1,0 +1,4 @@
+"终于来到天台山了！我一定要找到暮雨的宝藏！"
+nc 58.213.63.30 60001
+
+http://ctf.sycsec.com/download/pwn100_922d4d3b16041a6a01646588d31cccdf
