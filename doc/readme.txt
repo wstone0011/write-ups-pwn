@@ -1,8 +1,9 @@
 checksec
-
+CANARY
+NX
 
 栈上执行shellcode
-rop
+rop mprotect   
 got
 fsb
 double free (delete)
